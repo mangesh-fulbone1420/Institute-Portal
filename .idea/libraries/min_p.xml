@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="min_p">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/min_p.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

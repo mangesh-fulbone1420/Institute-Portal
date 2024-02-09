@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "DateChooser.jar",
+        "jcalendar_0.0.6_beta.jar",
+        "mysql-connector-java-5.1.41-bin.jar"
+    ]
+}
